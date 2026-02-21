@@ -28,6 +28,14 @@ The app focuses on smooth UX using shimmer placeholders, hero transitions, anima
 
 ---
 
+## 📸 App Preview
+
+| Splash Screen | Event List | Photo Gallery | Photo Viewer |
+|---|---|---|---|
+| ![Splash](Imgs/splash_screen.jpeg) | ![Events](Imgs/event_list.jpeg) | ![Gallery](Imgs/photo_gallery.jpeg) | ![Viewer](Imgs/photo_viewer.jpeg) |
+
+---
+
 ## 🏗️ App Architecture
 
 ```text
